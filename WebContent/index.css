@@ -1,0 +1,59 @@
+@CHARSET "ISO-8859-1";
+
+.back1{
+	background-color: red;
+	
+}
+
+
+.back2{
+	background-color: blue;
+	
+}
+
+
+.imgtag{
+	height:10%;
+	width:10%;
+	
+}
+.imgtag1{
+	height:3%;
+	width:3%;
+	marging:10%;
+	
+}
+
+.margin{
+	
+	margin-left: 10%;
+	
+}
+
+.marginvirat{
+	
+	margin-left: 12%;
+	
+}
+
+
+.margin11{
+	margin-left: -10%;
+}
+
+
+.status{
+	margin-top: 10%;
+	margin-left: -40%;
+}
+
+
+.imgtagonline{
+	height:8%;
+	width:8%;
+}
+
+
+
+
+
